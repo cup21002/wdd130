@@ -5,10 +5,10 @@ Fonts are separated by a & */
 @import url('https://fonts.googleapis.com/css2?family=Angkor&family=Roboto&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #A3E7FC   ;
-  --secondary-color: #26C485 ;
-  --accent1-color: #000000;
-  --accent2-color: #32908F;
+  --primary-color: #132A13   ;
+  --secondary-color: #31572C ;
+  --accent1-color: #4F772D;
+  --accent2-color: #90A955;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Angkor";
